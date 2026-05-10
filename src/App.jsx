@@ -10,7 +10,8 @@ import {
 } from 'react-icons/fa'
 
 
-const API = 'http://localhost:5000/notes'
+// const API = 'http://localhost:5000/notes'
+const API = 'https://noteapp-backend-sqal.onrender.com/notes'
 
 
 function App() {
